@@ -41,5 +41,5 @@ There is a 15 minutes cooldown by default, it can be changed in settings.json or
 /check Netflix - You will receive a message with the amount of accounts on that service.  
 /stock - See the whole stock
 
-Contact me on discord for any problem: Silvano#1337
+Contact me on discord for any problem: Silvano#9542
 

@@ -1,3 +1,5 @@
+Please reply to this poll:  
+https://www.strawpoll.me/42876300
 # ![logo](https://i.imgur.com/aHRDloT.png)
 ## 🚩 Table of Contents
 - [About](#-about)
